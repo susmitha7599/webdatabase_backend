@@ -1,0 +1,62 @@
+{"place": [{
+  "id":1,
+  "Destination": "Rishikesh(India)",
+  "TopAttraction": "Bharat Mandir",
+  "FamousActivity":"River Rafting",
+  "Cusine":"Indian",
+  "Budget":"$75 per day",
+  "Besttimetovisit":"Feb-May"
+  
+
+},
+{
+  "id":2,
+  "Destination": "Finland",
+  "TopAttraction": "Suomenlinna",
+  "FamousActivity":"Northern Lights",
+  "Cusine":"Finnish",
+  "Budget":"$130 per day",
+  "Besttimetovisit":"May-Sep"
+  
+},
+{
+  "id":3,
+  "Destination": "Turkey",
+  "TopAttraction": "Cuppadocia",
+  "FamousActivity":"Hot Air Ballon",
+  "Cusine":"Turkish diaspora",
+  "Budget":"$23 per day",
+  "Besttimetovisit":"Jun-Sep"
+  
+},
+{
+  "id":4,
+  "Destination": "Barcelona(Spain)",
+  "TopAttraction": "Sagrada Familia Basilica",
+  "FamousActivity":"Boat Cruise on Mediterranean Sea ",
+  "Cusine":"Spanish",
+  "Budget":"$250 per day",
+  "Besttimetovisit":"Mar-May"
+  
+},
+{
+  "id":5,
+  "Destination": "California(United States)",
+  "TopAttraction": "Yosemite National Park",
+  "FamousActivity":"Incredicoaster",
+  "Cusine":"Continental",
+  "Budget":"$300 per day",
+  "Besttimetovisit":"Jun-Aug"
+  
+
+},
+{
+  "id":6,
+  "Destination": "London",
+  "TopAttraction": "Buckingham Palace",
+  "FamousActivity":"London Eye",
+  "Cusine":"Continental",
+  "Budget":"$500 per day",
+  "Besttimetovisit":"Mar-May"
+  
+}]}

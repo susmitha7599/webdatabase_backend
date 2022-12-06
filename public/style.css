@@ -1,0 +1,83 @@
+/* Write CSS Here */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    
+    overflow: hidden;
+    background-color: #333;
+    position:fixed;
+    top: 0;
+    text-align:center;
+    
+    width: 100%;
+}
+
+
+.navbar li {
+  display:inline-block;
+  }
+  
+.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+
+body {
+	background-color: rgb(253, 254, 255);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  overflow-x: hidden;
+}
+.full {
+	width: 100%;
+	background-color: rgb(245, 239, 231);
+	margin: 0px;
+	display: grid;
+	grid-template-columns: 2fr 4fr;
+}
+.left {
+	position: initial;
+	background-color: rgba(34, 38, 49, 0.726);
+  color: white;
+	padding: 20px;
+
+}
+.right {
+	position: initial;
+	background-color:rgba(224, 225, 231, 0.555);
+	padding: 20px;
+
+}
+.image, .about, .Skills, .Language, .blogs, .title,
+.findme, .Experience, .Education, .project {
+    margin-top: 30px;
+	margin-bottom: 30px;
+}
+.h2 {
+	background-color: rgb(4, 96, 150);
+}
+
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 30px;
+    height: 180px;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
